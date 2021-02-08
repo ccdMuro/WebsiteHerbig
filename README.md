@@ -1,5 +1,5 @@
 # WebsiteHerbig
-A website that we use as a sink for our thoughts. With the support of `hugo` and the Hugo Theme `cupper`.
+A website that we use as a sink for our thoughts. With the support of [`HUGO`][hugo_link] and the [`cupper-hugo-theme`][cupper_link].
 
 # License Code
 Everything concerning **Code** in terms of programming, falls under the [GPL-3.0 License][gplv3_link].
@@ -13,3 +13,5 @@ Content may be, an image, a blog post or any other interlectual property that do
 [cc_logo]: https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png
 [cc_link]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [gplv3_link]: https://www.gnu.org/licenses/lgpl-3.0.txt
+[hugo_link]: https://gohugo.io
+[cupper_link]: https://github.com/zwbetz-gh/cupper-hugo-theme
