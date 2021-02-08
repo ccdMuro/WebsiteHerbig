@@ -25,7 +25,7 @@ params:
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
-  moveFooterToHeader: true
+  moveFooterToHeader: false
   customCss:
     - css/custom_01.css
     - css/custom_02.css
